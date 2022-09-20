@@ -11,7 +11,7 @@
 
 <VBox prefHeight="251.0" prefWidth="364.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.DepartmentListController">
    <children>
-      <TableView fx:id="tableViewDeparment" prefHeight="108.0" prefWidth="364.0">
+      <TableView fx:id="tableViewDeparment" prefHeight="135.0" prefWidth="364.0">
         <columns>
           <TableColumn fx:id="tableColumnID" prefWidth="75.0" text="Id" />
           <TableColumn fx:id="tableColumnName" prefWidth="75.0" text="Name" />
